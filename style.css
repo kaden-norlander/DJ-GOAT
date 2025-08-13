@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+    font-family: Helvetica;
+}
+
+p {
+    color: black;
+    font-family: Gill Sans;
+}
+
+* {
+    background-color: whitesmoke;
+}
+
+.highlight, ol, li, strong {
+    background-color: yellowgreen;
+}
+
+#main-title {
+    text-align: center;
+    color: black;
+}
+
+ol {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    margin: 5px;
+}
+
+#first-image {
+    border: 5px solid gray;
+}
+
+.last-heading {
+    text-align: center;
+    color: darkolivegreen;
+}
+
+.second-heading {
+    text-align: center;
+    color: darkred;
+}
